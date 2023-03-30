@@ -153,3 +153,7 @@ kt_out/
 kt_out
 aclImdb
 aclImdb/
+checkpoint/
+models/
+weights/
+*.tar.gz
