@@ -1,0 +1,200 @@
+Textbook-Style Resources for a PhD Thesis
+Tools using RTX 4090
+Beginner Seeking Advice on OCR Problem
+Image Classification
+Qdrant vector database introduced Scalar Quantization: up to 2x performance boost, 4x lower memory usage
+Training only Labelled Bbox for Object Detection.
+OpenCV Tutorial in 5 minutes - All Modules Overview
+Looking for book recommendations on [Geometric] Deep Learning
+Security and Privacy in Machine Learning - Ian Goodfellow GAN inventor
+Security and Privacy in Machine Learning - Ian Goodfellow GAN inventor
+Normalisation layers for small batch size: Batch Norm vs Layer Norm vs Gradient accumulation. Which is most appropriate?
+Angle Tracking for Football using Python and Mediapipe
+Linear activation or classification for approximating continuous outputs
+How to get an MLE role?
+Introtodeeplearning.com
+is 'reward model' used in PPO also used at inference of the policy?
+Which master program is best value for a career in ML
+ChatGPT Plugins release overview #artificialintelligence #ai #datascience #chatgpt #gpt3 #gpt4 #gpt
+Using Stable Diffusion's training method for Reverse engineering?
+Do we really need 100B+ parameters in a large language model?
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+OpenCV Tutorial in 5 minutes - All Modules Overview
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Introducing the YouTube channel reviewing good GitHub repositories including explaining the code
+Has anyone tried to use deep learning with CNNs on satellite images to predict malaria risk (or other similar diseases)?
+What Cloud GPU flatrate models for Machine Learning exist there?
+How to use a training set to train a standard RNN
+Persistent Nature: A Generative Model of Unbounded 3D Worlds
+Where Is your Code?
+Cuda out of memory error
+LTSM to improve autonomous navigation
+I deployed a Deep-Learning model as a REST-API to detect Pneumonia using AWS tools
+[Tutorial] Custom Object Detection using PyTorch Faster RCNN
+Ben Eysenbach, CMU: On designing simpler and more principled RL algorithms
+Best Way Alpaca GPU Inference
+I'm starting a discord community to learn machine learning
+Why We Divide by N-1 in the Sample Variance Formula
+error
+MAC M1 error pls help
+Remove Person From Photo
+Deep Learning Gone Wrong: The Rise of Filter Queens and the Fall of Natural Beauty
+Cheshire Cat - Open source layer on top of any language model (extendible via plugins)
+Just made a PEPE Generator https://huggingface.co/spaces/Dipl0/Dipl0-pepe-diffuser
+Question for use of ML in adaptive authentication
+Google’s New AI Robot Can See and Understands Language! (PaLM-E)
+[R] Introducing SIFT: A New Family of Sparse Iso-FLOP Transformations to Improve the Accuracy of Computer Vision and Language Models
+ChatLLaMA – A ChatGPT style chatbot for Facebook's LLaMA
+Video-P2P Code is out now
+Realtime Push Up Counter using Python and Mediapipe
+Comic Text Effect
+Anyone have any good alternatives to Paperspace? My account got closed for unauthorized access.
+[Pytorch] How do you efficiently keep in memory the attention weights in an autoregressive transformer
+How to handle multiple languages in a sentence?
+Is a GAN being able to generate realistic data analogous to it learning the underlying data generation mechanism of the input?
+Realism of GAN-Generated Terrains - Survey
+Real-time volumetric rendering of dynamic humans-Demo
+Minimizing model training stability
+Text2Tex: Creating High Quality Textures for 3D models
+Using CharBERT for text similarity
+Training on distributed system/ own cluster
+MeinaMix Model Test2 using SD and Controlnet
+Stoicism & Artificial Intelligence: Embracing an Age of Unimaginable Change
+It would be cool if there was a machine learning Nes Emulator, that the ai could learn to play automatically and you just run it on your pc till it finds the optimum root.
+Reduced Memory Usage with Burn: A Deep Learning Framework written in Rust
+[R] SPDF - Sparse Pre-training and Dense Fine-tuning for Large Language Models
+Anyone knows what is the minimum requirement to run the dalai alpaca 7B? Does the CPU matter or GPU?
+AI Apocalypse: A Psychoanalysis of Reality
+Adding Number of Sequence into dataset
+Fitness Tracking using Python & Mediapipe Tutorial -Angle Tracking
+Alpaca Turbo : A chat interface to interact with alpaca models with history and context
+Searching for an AI script/program
+CoDev- A GPT 4.0 Virtual Developer To Generate Apps
+Implementing new dataset on CV arch.
+[R] New grand challenge on generative models for medical imaging
+AI powered Scrum. Proximeet is a plugin that integrates with popular meeting tools like Zoom to help remote engineering teams conduct structured Scrum ceremonies. With our AI-powered platform, summarising team discussions/elaborations and noting down actionable tasks will be automated.
+How to Auto-Label Your Data Using Transformer Models
+Auto-Label Your Data Using Transformer Models
+Retro Style Portrait Tutorial in Canva
+Discover How AI is Changing the World
+Error while training yolov5
+How to get the clossest word from a vector, fasttext embeding
+How effective do you think AI can be in terms of enhancing the Customer Service sector? Here to explore used cases where AI has specifically solved a problem & shown considerable impact - ended up reading this blog and I must say, the future looks promising with quick & personalised support.
+3 interviews with exceptional NVIDIA people to launch my new podcast, "What's AI by Louis Bouchard"!
+How to Run Text to Video model on Stable Diffusion Webui [Tutorial]
+[D] M2 Pro 32 GB vs M2 Max 64GB for DL
+Alpaca-7B and Dalai, how can I get coherent results?
+GPT-4
+How noticeable is the difference training a model 4080 vs 4090
+Auxillary function
+Should I pay for A100 or use 3090TI
+Engineering a Neuro Symbolic Agent in GTA (Interview)
+are TensorFlow and keras will end soon and replaced by Pytorch?
+Systematised Network Diagrams
+MeinaMix Model Test using SD and Controlnet
+Using synthetic data to obtain sota results in a Kaggle medical competition: https://medium.com/@bogdanandreig/the-future-of-cardiac-imaging-leveraging-synthetic-image-data-for-improved-cardiac-function-bad67b1c9175
+DL with TensorFlow on macOS with eGPU?
+How to finetune bert to output a date range
+Do you recommend local GPU for video game reinforcement learning?
+Best GPUs for pretraining roBERTa-size LLMs with a $50K budget, 4x RTX A6000 v.s. 4x A6000 ADA v.s. 2x A100 80GB
+Interview with a senior data scientist at NVIDIA about the Ph.D., the interview process, his role, scaling NLP models, and more...
+Seeking Career Advice to go from general CS background to a career in AI/Machine Learning
+Comic Strip in Canva
+5100+ Chat GPT Prompts Excel Sheet
+Need some advice for my idea of "Sketch to design" project
+Question on Attention
+Hidden Markov Model in Golang using Gonum
+Unleash Your Creativity with Dreamshaper V4 - A new Stable Diffusion model
+MOOC/YT tutorials for best Deep Learning
+Quick Question: If I wanted to be cost efficient in terms of building out GPU cluster, I should look for the most cuda cores bang per buck?
+Reading PointNet (CVPR2017) and wondering what 'feature alignment' does
+[HELP] NEED SOMEONE WITH INDEPTH KNOWLEDGE OF Face AI MODIFIERS
+Does anyone know where I can find all the possible moves in a game?
+I need some material on metric learning
+[Tutorial] PyTorch Class Activation Map using Custom Trained Model
+Optimism Phase 2 Token Airdrop! | $OP
+Choose wisely
+Deeplearning.AI Mobile AI Event Mar 16th
+Using Transfer Learning as A Powerful Baseline for Deep Learning
+Alpaca - Train Your GPT-4 for Less Than $100
+Discover the Exciting Upgrades in MidJourney V5 - Your Ultimate Guide to New Features and Tips!
+Detect cracks and scratches on microchips..
+Turn drawings into images on visuali.io
+How do I prepare for the Microsoft Exams?
+Building a small neural network from scratch using only Numpy
+This is how a simplest neural network learns. read the first comment for further details
+OpenAI's GPT 4 is out and it's multimodal! What we know so far
+[P] We are building a curated list of awesome curated list closely related to machine learning, looking for contributions.
+Sliding Window on time serie create too big dataset
+Building a deep learning model for bug severity prediction
+FEN to the matrix - data preprocessing for neural networks
+How to Use mpirun to Launch a LLaMA Inference Job Across Multiple Cloud Instances
+Unlock Insane Image-to-Image Consistency with These Simple Settings! | SD & Control Net Tutorial
+Consistent Animation Test 7 using SD & Controlnet
+How To Fine-tune LLaMA Models, Smaller Models With Performance Of GPT3
+image to image
+MidJourney's Merge Feature Now in Stable diffusion | A New Style Transfer Method in Stable Diffusion
+Transformer models: if token embeddings are trainable params, why doesn't training cause every token to be mapped to the same vector?
+How good is GPT-4 compared to ChatGPT?
+GPTMinusOne - AI that hides the use of ChatGPT and GPT4
+Research opportunity
+How does Donut extract precise text without OCR?
+Hilarious mistake by a friend
+What are some ways to teach myself new skills?
+Question on study options
+Calculating the gradient of the marginal log-likelihood function
+More Consistent Animation using SD and Controlnet Canny
+How To Scale Transformers’ Memory up to 262K Tokens With a Minor Change?
+Best Deep Learning Courses on Udemy Beginners to Advanced -
+Display model like tensorspace
+Image reconstruction
+Using GANs to generate defective data
+Multiple objects - Multivariate LSTM
+Learning logical relationships with neural networks with differential ILP
+Ryan George in Arcane style
+Language Models Fundamentals - Chris Manning Stanford CoreNLP creator
+YOLO equation
+Which topic in deep learning do you think will become relevant or popular in the future?
+Does anyone here have a job in industry using deep learning for genomics/bioinformatic work?
+Recommendations sources for Understanding Advanced Mathematical Concepts in Research Papers?
+Generative Adversarial Networks for Conversational Chatbots - Ian Goodfellow GAN inventor
+CNN from scratch
+[D] Which jobs in the machine learning domain do you think will be in demand in future?
+Factors Influencing Adoption Intention of ChatGPT
+Text2Image using ControlNet and Stable Diffusion
+https://www.kaggle.com/code/sadikaljarif/plant-disease-classification-using-mobilenetv2
+How to blackout certain landmarks from face?
+Deep Learning for Machine Translation - Chris Manning Stanford CoreNLP
+How to code a PPO neural network in java
+(Python) Library for deep video generation?
+[D] Is Pytorch Lightning + Wandb a good combination for research?
+Technology and Sca***!!
+One Shot Learning Task
+Desktop Computer or some other way to train neural networks?
+Generate READMEs Using ChatGPT
+Does Reinforcement learning algorithm will do the job ?
+Should the tf2onnx.convert command be avoided to convert tensorflow models to onnx?
+[D] Version 2.1 of the Open Deep Learning Toolkit for Robotics is already available!
+Looking for feedback on our new AI-assisted drawing app!
+Neural Networks for Computational Biophysics
+OpenAI's Python API walk-through
+Gamers vs Toppers!! Is AI used in PUBG?
+is ai bad for humanity ( what do you think guys )
+[POC] ChatGPT Audio Bot (like Google Assistant and Alexa) - Opensource
+Approximately how long will it take to finish Transfer Learning?
+Unpacking the HF in RLHF: How Humans Teach Large Language Models to be Better
+AskReddit: which MBP Pro is future proof for AI apps development?
+[Tutorial] Image Classification using TensorFlow on Custom Dataset
+Jim Fan, NVIDIA: On foundation models for embodied agents, scaling data, and why prompt engineering will become irrelevant
+Stanford Webinar - The Frontier of Deep Learning for Robotics
+Changing the background for your videos with a click of a button using AI- Tutorial
+Changing the background for your videos with a click of a button using AI- Tutorial
+Do you use synthetic data in your projects?
+Image denoising using deep learning survey
+Can feature engineering avoid overfitting?
+this is reality.

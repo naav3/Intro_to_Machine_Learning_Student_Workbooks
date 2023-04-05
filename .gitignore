@@ -157,3 +157,6 @@ checkpoint/
 models/
 weights/
 *.tar.gz
+polar_out
+polar_out/
+zz_*
