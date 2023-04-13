@@ -159,4 +159,7 @@ weights/
 *.tar.gz
 polar_out
 polar_out/
-zz_*
+zz*
+
+data/sample_tokenized_sentences.csv
+data/padded_sample_tokenized_sentences.csv
